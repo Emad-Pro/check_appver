@@ -1,8 +1,8 @@
 {
-  "android_latest": "1.0.1",
-  "android_url": "رابط_ملف_الاندرويد_هنا.apk",
-  "windows_latest": "1.0.1",
-  "windows_url": "رابط_ملف_الويندوز_هنا.exe",
-  "force": true,
-  "message": "يوجد تحديث جديد وإلزامي للنظام"
+  "data": {
+    "latest": "1.0.1",
+    "url": "رابط_ملف_الويندوز_exe_هنا",
+    "force": true,
+    "message": "يوجد تحديث جديد متاح الآن"
+  }
 }
