@@ -1,8 +1,7 @@
 {
-  "data": {
-    "latest": "3.14",
-    "url": "https://github.com/Emad-Pro/check_appver/raw/refs/heads/main/v3.exe",
-    "force": true,
-    "message": "يوجد تحديث جديد متاح الآن"
-  }
+  "version": "1.15",
+  "url": "",
+  "release_notes": "إصلاحات عامة وتحسين أداء نسخة الويندوز.",
+  "is_mandatory": false,
+  "min_version_required": "1.0.0"
 }
