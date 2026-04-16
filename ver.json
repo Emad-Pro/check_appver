@@ -3,5 +3,5 @@
   "url": "",
   "release_notes": "إصلاحات عامة وتحسين أداء نسخة الويندوز.",
   "is_mandatory": false,
-  "min_version_required": "1.0.0"
+  "min_version_required": "1.15"
 }
