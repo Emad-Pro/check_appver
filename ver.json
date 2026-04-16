@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
+  "version": "1.5.1",
   "url": "https://raw.githubusercontent.com/Emad-Pro/check_appver/refs/heads/main/Abyad_Setup_v1.6.0.exe",
   "release_notes": "إصلاحات عامة وتحسين أداء نسخة الويندوز.",
   "is_mandatory": false,
-  "min_version_required": "1.1.5"
+  "min_version_required": "1.5.1"
 }
