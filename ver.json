@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "url": "https://raw.githubusercontent.com/Emad-Pro/check_appver/refs/heads/main/Abyad_Setup_v1.6.0.exe",
-  "release_notes": "إصلاحات عامة وتحسين أداء نسخة الويندوز.",
+  "version": "2.1.4",
+  "url": "https://raw.githubusercontent.com/Emad-Pro/check_appver/refs/heads/main/Abyad_Setup_v1.5.1.exe",
+  "release_notes": "إصلاح عرض المنتجات\nإصلاح طابعه (تجريبي) \n إصلاح rest ",
   "is_mandatory": false,
-  "min_version_required": "1.1.4"
+  "min_version_required": "2.1.4"
 }
