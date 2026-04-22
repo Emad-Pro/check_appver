@@ -1,9 +1,7 @@
 {
   "version": "6.6.6",
   "url": "https://raw.githubusercontent.com/Emad-Pro/check_appver/refs/heads/main/Abyad_Setup_v66.exe",
-  "release_notes": "Fix: Resolve POS custom price sync & Windows auto-updater cache
-- POS: Fixed an issue where the custom price was passed as null to UIHelper; correctly split logic for price_per_unit and total_price.
-- Windows Updater: Added timestamp to GitHub JSON request to bypass caching and improved version string parsing to prevent comparison crashes in production.",
+  "release_notes": "Fix: Resolve POS custom price sync & Windows auto-updater cache- POS: Fixed an issue where the custom price was passed as null to UIHelper; correctly split logic for price_per_unit and total_price.- Windows Updater: Added timestamp to GitHub JSON request to bypass caching and improved version string parsing to prevent comparison crashes in production.",
   "is_mandatory": false,
   "min_version_required": "6.6.6"
 }
