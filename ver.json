@@ -1,7 +1,7 @@
 {
-  "version": "7.7.7",
-  "url": "https://raw.githubusercontent.com/Emad-Pro/check_appver/refs/heads/main/Abyad_Setup_v7.exe",
-  "release_notes": "إصلاح مشكلة حرف 'ي' بالفواتير ",
-  "is_mandatory": false,
-  "min_version_required": "7.7.7"
+  "version": "1.7.0",
+  "url": "https://raw.githubusercontent.com/Emad-Pro/check_appver/refs/heads/main/Abyad_Setup_v1.exe",
+  "release_notes": "New Version",
+  "is_mandatory": true,
+  "min_version_required": "1.7.0"
 }
